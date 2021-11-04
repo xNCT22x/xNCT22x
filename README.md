@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hey, We are NCT22<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align='center'>
+  <img src='https://thumbs.gfycat.com/SlimHospitableEsok-size_restricted.gif'>
+</div>
 
-<!--
-**xNCT22x/xNCT22x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student Of SMKN 22 Jakarta 
 
-Here are some ideas to get you started:
+- 🌱 Learning About Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+## Github Stats
+![NCT22's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNCT22x&theme=tokyonight&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xNCT22x&theme=tokyonight)
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
